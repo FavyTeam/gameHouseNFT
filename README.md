@@ -81,6 +81,8 @@ Being the ERC-721 standard NFT tokens, the Cars can be traded with players and c
 5. Login to that account to view your new Car:
 ![](https://i.imgur.com/XSWMfWf.png)
 
+6. Test it.
+
 ## Project Setup
 1. Clone the Repository
 2. Deploy contracts via Remix. Save the abi and contract address in `'./assets/js/web3setup.js'`
